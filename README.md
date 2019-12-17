@@ -13,3 +13,5 @@ D[5,60]- Working on 5.8 and 5.9 and grasping basics of Pytorch .
 d[6,60]- Learning ML Module course by Kaggle.
 
 D[7,60]- Completed Ml course basics today by kaggle and I think now the dots are started to connecting with each other.
+
+d[8,60]- setup Pytorch locally and done some programming for my final year project and researching on the satellite-image.
