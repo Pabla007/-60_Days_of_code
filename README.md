@@ -15,3 +15,5 @@ d[6,60]- Learning ML Module course by Kaggle.
 D[7,60]- Completed Ml course basics today by kaggle and I think now the dots are started to connecting with each other.
 
 d[8,60]- setup Pytorch locally and done some programming for my final year project and researching on the satellite-image.
+
+D[9,60]- Not able to do much today but completed till 5.3 and will implement the Fashion-MNIST tomorrow.
