@@ -19,3 +19,5 @@ d[8,60]- setup Pytorch locally and done some programming for my final year proje
 D[9,60]- Not able to do much today but completed till 5.3 and will implement the Fashion-MNIST tomorrow.
 
 d[10,60] - Implemented Fashion MNIST 5.4 successfully and revised chapter 3.
+
+D[11,60] - Started Intermediate ML course in kaggle.
