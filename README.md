@@ -21,3 +21,5 @@ D[9,60]- Not able to do much today but completed till 5.3 and will implement the
 d[10,60] - Implemented Fashion MNIST 5.4 successfully and revised chapter 3.
 
 D[11,60] - Started Intermediate ML course in kaggle.
+
+d[12,60] - In Lesson 5 done notebook [5.14 to 5.16] and will try to complete lesson 5 by tomorrow.
