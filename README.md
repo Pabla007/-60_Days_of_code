@@ -25,3 +25,5 @@ D[11,60] - Started Intermediate ML course in kaggle.
 d[12,60] - In Lesson 5 done notebook [5.14 to 5.16] and will try to complete lesson 5 by tomorrow.
 
 D[13,60] - In Intermediate ML course in kaggle completed 2 lessons and did some project work.
+
+d[12,60] - In Lesson 5 learn about dropout prons & cons and done project work and successfully merged 7 raster images into 1 raster image.
