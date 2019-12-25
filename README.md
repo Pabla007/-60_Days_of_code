@@ -29,3 +29,5 @@ D[13,60] - In Intermediate ML course in kaggle completed 2 lessons and did some 
 d[14,60] - In Lesson 5 learn about dropout prons & cons and done project work and successfully merged 7 raster images into 1 raster image.
 
 D15: Skipped this day because i have to attend Religious Funtion today.  
+
+D[15,60] - Today i have learn how to saving & loading model 5.17 and also the read the documentation regarding it.
