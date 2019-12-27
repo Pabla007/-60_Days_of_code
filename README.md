@@ -33,3 +33,5 @@ D15: Skipped this day because i have to attend Religious Funtion today.
 D[15,60] - Today i have learn how to saving & loading model 5.17 and also the read the documentation regarding it.
 
 d[16,60] - Today i have read an aritcle for topic :- Batch Normilization and Will definately complete lesson 5 by tomorrow.
+
+D[17,60] - I have gone through some blog's and articles related to my project and was busy in that.
