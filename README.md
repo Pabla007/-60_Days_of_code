@@ -37,3 +37,5 @@ d[16,60] - Today i have read an aritcle for topic :- Batch Normilization and Wil
 D[17,60] - I have gone through some blog's and articles related to my project and was busy in that.
 
 d[18,60] - Today done Trasfer learning of lesson 5 and lesson is completed as it is the topic but it took almost 1 hours to train Cat and dog classification.
+
+D[19,60] - Mostly done Project work today and also complete Coursera Week-1 Assignment.
