@@ -41,3 +41,5 @@ d[18,60] - Today done Trasfer learning of lesson 5 and lesson is completed as it
 D[19,60] - Mostly done Project work today and also completed Coursera Week-1 Assignment and will start Lesson 6 from tomorrow.
 
 d[20,60] - Today I have started Lesson 6 & also find the break-through for my project and from now I will be having more time to contribute in these course till I got the next proejct task.
+
+D[21,60] - Started Lesson 6 and completed till 6.9 & I am really enjoying the way they have explained the things in this lesson.
