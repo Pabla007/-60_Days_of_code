@@ -43,3 +43,5 @@ D[19,60] - Mostly done Project work today and also completed Coursera Week-1 Ass
 d[20,60] - Today I have started Lesson 6 & also find the break-through for my project and from now I will be having more time to contribute in these course till I got the next proejct task.
 
 D[21,60] - Started Lesson 6 and completed till 6.9 & I am really enjoying the way they have explained the things in this lesson.
+
+d[20,60] - In lesson 6 completed [6.10-6.12] and really enjoyed the coding part.It just felt like i was revising Lesson 5 when doing the MLP classification Excercise.
