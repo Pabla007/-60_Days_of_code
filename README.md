@@ -49,3 +49,5 @@ d[22,60] - In lesson 6 completed [6.10-6.12] and really enjoyed the coding part.
 D[23,60] - In Lesson 6 completed [6.13-6.18] & I am really enjoying the way they have explained the things in this lesson.
 
 d[24,60] - Revision of previous concepts in Lesson 3. i.e Gradient Descent etc.
+
+D[25,60] - Today I have done some Project work and Coursera weekly Assignment to test my Udacity Knowledge.
