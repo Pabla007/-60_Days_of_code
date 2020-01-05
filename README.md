@@ -51,3 +51,5 @@ D[23,60] - In Lesson 6 completed [6.13-6.18] & I am really enjoying the way they
 d[24,60] - Revision of previous concepts in Lesson 3. i.e Gradient Descent etc.
 
 D[25,60] - Today I have done some Project work and Coursera weekly Assignment to test my Udacity Knowledge.
+
+d[26,60] - Getting Deep into Gradient Descent Maths and now it is being cleared how the backpropogation through Derivaties is done special thanks to Andrew Ng for such a good explanation.
