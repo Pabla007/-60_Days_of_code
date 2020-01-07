@@ -55,3 +55,5 @@ D[25,60] - Today I have done some Project work and Coursera weekly Assignment to
 d[26,60] - Getting Deep into Gradient Descent Maths and now it is being cleared how the backpropogation through Derivaties is done special thanks to Andrew Ng for such a good explanation.
 
 D[27,60] - Today I have done Coursera weekly Programming Excercise where i have implemented A simple Logistic Regression with a Neural Network mindset to tell whether it is cat or non-cat where I have resize, Flatten the image through numpy and also coded Cost function and updated the weights etc it is very interesting to see how to things work on the basic level as I was new to pytorch and has not done it with numpy and other libraries.
+
+d[28,60] - Revised the lesson 6 videos till 6.20 and I will proceed the rest of vidoes from tomorrow.
