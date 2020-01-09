@@ -59,3 +59,5 @@ D[27,60] - Today I have done Coursera weekly Programming Excercise where i have 
 d[28,60] - Revised the lesson 6 videos till 6.20 and I will proceed the rest of vidoes from tomorrow.
 
 D[29,60] - Completed 6.21-6.25 In lesson 6 and I really like how we calculate the edge through the kernel.
+
+d[30,60] - Completed [6.26-6.28] In lesson 6 and i have watched Andrew NG video for more detial in CNN. 
