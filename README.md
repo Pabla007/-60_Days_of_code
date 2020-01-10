@@ -61,3 +61,5 @@ d[28,60] - Revised the lesson 6 videos till 6.20 and I will proceed the rest of 
 D[29,60] - Completed 6.21-6.25 In lesson 6 and I really like how we calculate the edge through the kernel.
 
 d[30,60] - Completed [6.26-6.28] In lesson 6 and i have watched Andrew NG video for more detial in CNN. 
+
+D[31,60] - Completed 6.29-6.32] In lesson 6 and read the medium post by which was really interesting.
