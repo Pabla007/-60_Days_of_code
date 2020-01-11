@@ -62,4 +62,6 @@ D[29,60] - Completed 6.21-6.25 In lesson 6 and I really like how we calculate th
 
 d[30,60] - Completed [6.26-6.28] In lesson 6 and i have watched Andrew NG video for more detial in CNN. 
 
-D[31,60] - Completed 6.29-6.32] In lesson 6 and read the medium post by which was really interesting.
+D[31,60] - Completed [6.29-6.32] In lesson 6 and read the medium post by which was really interesting.
+
+d[32,60] - In lesson 6 I have successfully trained Capsule Network Locally but i need to understand some part of the code which i will do tomorrow and i have watched some Coursera videos. 
