@@ -65,3 +65,5 @@ d[30,60] - Completed [6.26-6.28] In lesson 6 and i have watched Andrew NG video 
 D[31,60] - Completed [6.29-6.32] In lesson 6 and read the medium post by which was really interesting.
 
 d[32,60] - In lesson 6 I have successfully trained Capsule Network Locally but i need to understand some part of the code which i will do tomorrow and i have watched some Coursera videos. 
+
+D[33,60] - Completed [6.33-6.35] In lesson 6 and done videos of Coursera for week 3.
