@@ -70,3 +70,4 @@ D[33,60] - Completed [6.33-6.35] In lesson 6 and done videos of Coursera for wee
 
 d[34,60] - Completed my Coursera week 3 program it was really interesting to implement forward and backward pass and updated the weight. If anyone interested than go through it i have shared the gist link.
 
+D[35,60] - Completed [6.36-6.37] In lesson 6 and will implement Cifar-10 solution tomorrow as i was busy in kite flying and pretty tired from it and i have also read one research paper [A deep learning framework for hyperspectral image classification using spatial pyramid pooling] .
