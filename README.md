@@ -75,3 +75,5 @@ D[35,60] - Completed [6.36-6.37] In lesson 6 and will implement Cifar-10 solutio
 d[36,60] - I have Skipped this day & enjoying kite flying days. And My internet was not working so i was not able to post my update yesterday. Kite flying aka Makarskranti Day is highly celebrated in Gujarat as a major festival, as a result there is 2 days holiday. During this time people enjoy flying kites, meeting family kin and kith alongwith loads of eating specials delicacies. I too enjoyed with my family and it was a memorable one.
 
 d[36,60] - I have successfully implemented Cifar_10_cnn solution with 74% accuracy i will see tomorrow how could i increase it.
+
+D[37,60] - In lesson 6 completed[6.36-6.38] and played with the Cifar-10 solution and will implement the augmentation solution tomorrow.
