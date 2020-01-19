@@ -79,3 +79,5 @@ d[36,60] - I have successfully implemented Cifar_10_cnn solution with 74% accura
 D[37,60] - In lesson 6 completed[6.36-6.38] and played with the Cifar-10 solution and will implement the augmentation solution tomorrow.
 
 d[38,60] - Finally completed lesson 6 [6.39-6.44] though there was a lot of reading and reference material in the end. I loved the way they thought in lesson 6 because there was only notebooks in lesson 5. Will start Lesson 7 from tomorrow.
+
+D[39,60] - Doing Coursera Week 4 done the videos and quiz and doing the programming assignment and will start lesson 7 from tomorrow as 
