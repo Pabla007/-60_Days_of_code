@@ -80,4 +80,5 @@ D[37,60] - In lesson 6 completed[6.36-6.38] and played with the Cifar-10 solutio
 
 d[38,60] - Finally completed lesson 6 [6.39-6.44] though there was a lot of reading and reference material in the end. I loved the way they thought in lesson 6 because there was only notebooks in lesson 5. Will start Lesson 7 from tomorrow.
 
-D[39,60] - Doing Coursera Week 4 done the videos and quiz and doing the programming assignment and will start lesson 7 from tomorrow as 
+D[39,60] - Doing Coursera Week 4 in which I have wacthed the videos and done the quiz and now doing the programming assignment and will start lesson 7 from tomorrow as I have to prepare for weekly for my college which is tomorrow.
+i also have to prepare for my weekly which is tomorrow.
