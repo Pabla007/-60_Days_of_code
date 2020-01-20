@@ -82,3 +82,5 @@ d[38,60] - Finally completed lesson 6 [6.39-6.44] though there was a lot of read
 
 D[39,60] - Doing Coursera Week 4 in which I have wacthed the videos and done the quiz and now doing the programming assignment and will start lesson 7 from tomorrow as I have to prepare for weekly for my college which is tomorrow.
 i also have to prepare for my weekly which is tomorrow.
+
+d[40,60] - Completed Coursera Week 4 though the i was stuck at the programming excercise because i was doing silly mistakes but i was able to complete it. I was busy helping my brother out to do PSA Analaysis and plot the heatmap in that.
