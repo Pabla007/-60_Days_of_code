@@ -84,3 +84,6 @@ D[39,60] - Doing Coursera Week 4 in which I have wacthed the videos and done the
 i also have to prepare for my weekly which is tomorrow.
 
 d[40,60] - Completed Coursera Week 4 though the i was stuck at the programming excercise because i was doing silly mistakes but i was able to complete it. I was busy helping my brother out to do PSA Analaysis and plot the heatmap in that [https://gist.github.com/PablaOO7/1ea8d72cbb65207db95e12efb1c00523].
+
+
+D[41,60] - Today busy in project meeting with the guide and revised previous concetps of lesson 3.
