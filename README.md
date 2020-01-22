@@ -87,3 +87,5 @@ d[40,60] - Completed Coursera Week 4 though the i was stuck at the programming e
 
 
 D[41,60] - Today busy in project meeting with the guide and revised previous concetps of lesson 3.
+
+d[42,60] - Started Lesson 7 and completed [7.1-7.7] and Right now I am doing the style transfer excersie and will put on traning & go to sleep as it will take 1-3 hours for tranining locally.
