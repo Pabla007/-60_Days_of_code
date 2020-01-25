@@ -93,3 +93,5 @@ d[42,60] - Started Lesson 7 and completed [7.1-7.7] and Right now I am doing the
 D[43,60] - Finally Completed Lesson 7 and Fell in Love with the Style-Trasnfer Excersie. Will start from Lesson 8 tomorrow.
 
 d[44,60] - Started Lesson 8 & reading the articles given in the Intro to RNN and will see the videos tomorrow and also done my final year project task. And will be busy in completing that for couple of days.
+
+D[45,60] - Started Lesson 8 completed [8.1-8.3] not able to do much busy in project stuff.
