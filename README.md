@@ -95,3 +95,5 @@ D[43,60] - Finally Completed Lesson 7 and Fell in Love with the Style-Trasnfer E
 d[44,60] - Started Lesson 8 & reading the articles given in the Intro to RNN and will see the videos tomorrow and also done my final year project task. And will be busy in completing that for couple of days.
 
 D[45,60] - Started Lesson 8 completed [8.1-8.3] not able to do much busy in project stuff.
+
+d[46,60] - In lesson 8 watched the RNN video [i.e Andrej Karpathy's lecture on RNNs and LSTMs from CS231n] & it suprises me how much LSTM can do though the lecture was of 1 hour but interesting and completed my project task so will free for the next week till next task comes.
