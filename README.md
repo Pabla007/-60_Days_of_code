@@ -99,3 +99,5 @@ D[45,60] - Started Lesson 8 completed [8.1-8.3] not able to do much busy in proj
 d[46,60] - In lesson 8 watched the RNN video [i.e Andrej Karpathy's lecture on RNNs and LSTMs from CS231n] & it suprises me how much LSTM can do though the lecture was of 1 hour but interesting and completed my project task so will free for the next week till next task comes.
 
 D[47,60] - In Lesson 8 completed [8.4-8.10] and it is amazing how they have teached the LSTM concept with amazing animation because of that it is easy to grasp the new things in no time. 
+
+d[48,60] - Revised Architecture & Gates in Lesson 8 and not able to do much because have to complete college assignment and have to submit tomorrow.
