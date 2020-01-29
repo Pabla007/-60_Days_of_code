@@ -101,3 +101,5 @@ d[46,60] - In lesson 8 watched the RNN video [i.e Andrej Karpathy's lecture on R
 D[47,60] - In Lesson 8 completed [8.4-8.10] and it is amazing how they have teached the LSTM concept with amazing animation because of that it is easy to grasp the new things in no time. 
 
 d[48,60] - Revised Architecture & Gates in Lesson 8 and not able to do much because have to complete college assignment and have to submit tomorrow.
+
+D[49,60] - Skipped today because very much tired but hope you all are doing well.
