@@ -105,3 +105,5 @@ d[48,60] - Revised Architecture & Gates in Lesson 8 and not able to do much beca
 D[49,60] - Skipped today because very much tired but hope you all are doing well.
 
 D[49,60] - In Lesson 8 completed [8.11-8.13] and help my firend in his project realted to plugin in QGIS. 
+
+d[50,60] - Reading the RNN documentation and playing with the parameters as well as hyper parameters as the instructor told . As i have time today i will watch the remaning video's of lesson 8 and try to complete till sunday.
