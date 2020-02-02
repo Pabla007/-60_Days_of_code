@@ -109,3 +109,5 @@ D[49,60] - In Lesson 8 completed [8.11-8.13] and help my firend in his project r
 d[50,60] - Reading the RNN documentation and playing with the parameters as well as hyper parameters as the instructor told . As i have time today i will watch the remaning video's of lesson 8 and try to complete till sunday.
 
 D[51,60] - In Lesson 8 completed [8.14-8.16] and taken part in the study jam though i have spend 30 minutes but highly encourage all of you to take part in that and revise there knowledge. 
+
+d[52,60] - Have gone through the Character-Level LSTM and will start the code from tomorrow. And also successfully made a plugin with my friend in QGIS as i was helping in his final year project. And i was late for posting the update because i was playing pubg lite with my friends after a long time so now i feel sleepy and will start the remaning task from tomorrow.
