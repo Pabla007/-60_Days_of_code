@@ -113,3 +113,5 @@ D[51,60] - In Lesson 8 completed [8.14-8.16] and taken part in the study jam tho
 d[52,60] - Have gone through the Character-Level LSTM and will start the code from tomorrow. And also successfully made a plugin with my friend in QGIS as i was helping in his final year project. And i was late for posting the update because i was playing pubg lite with my friends after a long time so now i feel sleepy and will start the remaning task from tomorrow.
 
 D[53,60] - In Lesson 8 completed [8.17-8.20] and the model is training (i.e Character-Level LSTM) so i will see the result tomorrow as well as i also have to read how to choose the hypermeters and select the best model. And the instructor has so beautifully tought the RNN concepts if i would have learning from other source i would not have understand the concepts like this.And i think i will complete lesson 8 tomorrow.
+
+d[54,60] - I have done the revision of lesson 8 before jumping to lesson 9 though 8.21 is also left. And i was busy setting the hadoop in ubuntu in VM Virtual box and install that successfully.
