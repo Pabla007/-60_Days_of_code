@@ -115,3 +115,5 @@ d[52,60] - Have gone through the Character-Level LSTM and will start the code fr
 D[53,60] - In Lesson 8 completed [8.17-8.20] and the model is training (i.e Character-Level LSTM) so i will see the result tomorrow as well as i also have to read how to choose the hypermeters and select the best model. And the instructor has so beautifully tought the RNN concepts if i would have learning from other source i would not have understand the concepts like this.And i think i will complete lesson 8 tomorrow.
 
 d[54,60] - I have done the revision of lesson 8 before jumping to lesson 9 though 8.21 is also left. And i was busy setting the hadoop in ubuntu in VM Virtual box and install that successfully.
+
+D[55,60] - Completed lesson 8 finally and it was hard time to digest the concepts in this lesson but i was able to understand and will start lesson 9.And my brother has given me this beautiful dairy i will ask him about the conference that he has attended tomorrow as he was tired and gone to sleep. 
