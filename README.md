@@ -117,3 +117,5 @@ D[53,60] - In Lesson 8 completed [8.17-8.20] and the model is training (i.e Char
 d[54,60] - I have done the revision of lesson 8 before jumping to lesson 9 though 8.21 is also left. And i was busy setting the hadoop in ubuntu in VM Virtual box and install that successfully.
 
 D[55,60] - Completed lesson 8 finally and it was hard time to digest the concepts in this lesson but i was able to understand and will start lesson 9.And my brother has given me this beautiful dairy i will ask him about the conference that he has attended tomorrow as he was tired and gone to sleep. 
+
+d[56,60] - Start lesson 9 completed [9.1-9.3] will do the coding part tomorrow and also done some coding in rasberry pie.
