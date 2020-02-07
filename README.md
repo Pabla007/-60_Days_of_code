@@ -119,3 +119,5 @@ d[54,60] - I have done the revision of lesson 8 before jumping to lesson 9 thoug
 D[55,60] - Completed lesson 8 finally and it was hard time to digest the concepts in this lesson but i was able to understand and will start lesson 9.And my brother has given me this beautiful dairy i will ask him about the conference that he has attended tomorrow as he was tired and gone to sleep. 
 
 d[56,60] - Start lesson 9 completed [9.1-9.3] will do the coding part tomorrow and also done some coding in rasberry pie.
+
+D[57,60] - In lesson 9 completed [9.4-9.5] and was busy to understand how did they split the paragraph into words.
