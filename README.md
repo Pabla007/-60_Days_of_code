@@ -123,3 +123,7 @@ d[56,60] - Start lesson 9 completed [9.1-9.3] will do the coding part tomorrow a
 D[57,60] - In lesson 9 completed [9.4-9.5] and was busy to understand how did they split the paragraph into words.
 
 d[58,60] - Revised topics I have done in lesson 9 and my whole day was gone in the entrance test so was not able to do much. But i was able to attend the webniar given by Prince Canuma and Nesreensada
+
+D[59,60] - In lesson 9 completed [9.6-9.7] and gone through the ppt that Wafa has shared me regarding CNN.
+
+d[60,60] - 
