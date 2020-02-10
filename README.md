@@ -126,4 +126,4 @@ d[58,60] - Revised topics I have done in lesson 9 and my whole day was gone in t
 
 D[59,60] - In lesson 9 completed [9.6-9.7] and gone through the ppt that Wafa has shared me regarding CNN.
 
-d[60,60] - 
+d[60,60] - In lesson 9 done the padding , dataloader and batching excercise And i will define the model tomorrow as of now i have to work on my college practical manual as i have to submit it day tomorrow.
